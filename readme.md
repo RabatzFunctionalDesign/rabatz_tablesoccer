@@ -7,7 +7,7 @@
 - [Design reference](https://www.rabatzdesign.com).
 - [Production files](https://github.com/rabatzfunctionaldesign/rabatz_tablesoccer)._(you are here)_
 
-##Previews
+## Preview
 
 <span><img width='500px' src='./00_preview.png'/></span>
 
