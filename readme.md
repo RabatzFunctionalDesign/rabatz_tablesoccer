@@ -4,8 +4,8 @@
 
 ## Project links
 
-- [Design reference](https://www.rabatzdesign.com).
-- [Production files](https://github.com/rabatzfunctionaldesign/rabatz_tablesoccer)._(you are here)_
+- [Design reference](https://www.rabatzdesign.com)
+- [Production files](https://github.com/rabatzfunctionaldesign/rabatz_tablesoccer) _(you are here)_
 
 ## Preview
 
@@ -22,7 +22,7 @@
 
 - 2 sheets plywood birch 2500 x 1250 x 24 mm
 - 1 sheet medium dense fiber board 1200 x 700 x 19 mm
-- Accessory package _(Check assembly instructions to obtain a detailed list of all parts. A package with the required accessory collected can be ordered [here](https://www.rabatzdesign.com).)_
+- Accessory package _(Check [assembly instructions](https://github.com/rabatzfunctionaldesign/rabatz_tablesoccer/04_Assembly/04_Assembly_en.pdf) to obtain a detailed list of all parts. A package with the required accessory collected can be ordered [here](https://www.rabatzdesign.com))_
 
 ## Copyright & License
 
