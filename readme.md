@@ -9,20 +9,15 @@
 
 ## Preview
 
-<span><img width='500px' src='./00_preview.png'/></span>
+<span><img width='500px' src='./00_CAD/00_preview.png'/></span>
 
 ## Production steps
 
+- 00 [Base of Materials](https://github.com/RabatzFunctionalDesign/rabatz_tablesoccer/blob/main/Base_of_Materials.pdf)
 - 01 CNC-milling
 - 02 Surface finishing
 - 03 Playing field assembly
 - 04 Table soccer assembly
-
-## Base of materials
-
-- 2 sheets plywood birch 2500 x 1250 x 24 mm
-- 1 sheet medium dense fiber board 1200 x 700 x 19 mm
-- Accessory package _(Check [assembly instructions](https://github.com/RabatzFunctionalDesign/rabatz_tablesoccer/blob/main/04_Assembly/04_Assembly_en.pdf) to obtain a detailed list of all parts. A package with the required accessory collected can be ordered [here](https://www.rabatzdesign.com))_
 
 ## Copyright & License
 
